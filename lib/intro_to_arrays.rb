@@ -20,3 +20,8 @@ def last_element
   array = ["element1", "element2", "element3"]
   array[-1]
 end
+
+def first_element_with_array_methods
+  array = ["element1", "element2", "element3"]
+  array.first
+end
