@@ -16,3 +16,7 @@ def third_element
   array[2]
 end
 
+def last_element
+  array = ["element1", "element2", "element3"]
+  array[-1]
+end
